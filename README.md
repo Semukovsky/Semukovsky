@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **object-oriented programming**
 
-- ⚡ Fun fact **I`m a good fortnite player (3500 pr; 350$ earnings)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/semuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="semuk" height="30" width="40" /></a>
